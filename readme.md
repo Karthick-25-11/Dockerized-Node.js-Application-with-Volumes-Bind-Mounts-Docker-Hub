@@ -35,7 +35,7 @@ While creating the Docker image, I:
 * Created a dedicated working directory inside the container
 * Installed application dependencies in an isolated environment
 * Copied the application source code into the container
-* Exposed the required application port
+* Exposed the required application port 5000
 * Executed the Node.js application inside the container runtime
 
 This ensured the application runs consistently across different environments.
