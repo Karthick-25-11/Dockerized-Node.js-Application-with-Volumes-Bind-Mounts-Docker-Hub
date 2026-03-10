@@ -105,10 +105,10 @@ Through this project, I covered:
 ## 🎯 Key Learnings
 
 * Writing and understanding Dockerfiles
+* Tagging various containers
 * Managing container lifecycle
 * Understanding the difference between volumes and bind mounts
 * Implementing data persistence strategies in Docker
-* Tagging and publishing Docker images
 * Applying containerization concepts in real-world DevOps workflows
 
 ---
